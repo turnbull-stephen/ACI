@@ -2,7 +2,7 @@ This is a small python program that will take an excel spreadsheet and convert i
 a file will be created along with the tabs name.
 
 Requires the following be installed:
--pip install openpyxl
+pip install openpyxl
 
 Usage: 
 python xls2csv spreadsheet.xlsx
